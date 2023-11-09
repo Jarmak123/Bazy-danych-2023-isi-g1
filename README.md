@@ -8,4 +8,4 @@
 select * from eduroam
 ```
 
-kod mozemy umiescic liniowo czyli SELECT * FROM eduroam
+kod mozemy umiescic liniowo czyli ```SELECT * FROM``` eduroam
