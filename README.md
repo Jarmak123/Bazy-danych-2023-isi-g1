@@ -10,6 +10,11 @@ select * from eduroam
 
 kod mozemy umiescic liniowo czyli ```SELECT * FROM``` eduroam
 
+Lista uporządkowana
+1. lista 1
+2. lista 2
+  2.1 lista 3
+
 Lista wypunktowana:
 * lista 1
 * lista 2
