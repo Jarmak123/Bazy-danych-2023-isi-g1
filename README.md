@@ -4,8 +4,8 @@
 
 **Pogrubony**
 **_Pogrubiony i kursywa_**
-'''sql
+```sql
 select * from eduroam
-'''
+```
 
 kod mozemy umiescic liniowo czyli SELECT * FROM eduroam
